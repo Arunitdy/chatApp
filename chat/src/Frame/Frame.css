@@ -1,0 +1,45 @@
+
+.bar{
+    height:36px;
+    background-color: yellow;
+    width: 1000vh;
+}
+.subFrame{
+    background-color: rgb(251, 251, 254);
+    width:1000vh;
+    height: 100vh;
+    display: flex;
+}
+
+.navBar{
+    width: 60px;
+    background-color:red;
+}
+.list{
+    border-top-left-radius:10px ;
+    width: 300px;
+    background-color:blue;
+}
+.individualList {
+    height: 80px;
+    width: 100%;
+    border-bottom: 2px solid rgb(249, 9, 9);
+    background-color: transparent;
+    border-radius: 0px;
+    display: flex;
+    padding: 10px 100% 10px 10px; 
+}
+.individualList .text{
+    margin:auto 100% ;
+}
+.ProfileImage{
+    border-radius:100px;
+    background-color: white;
+    margin-right:auto;
+    width:50px;
+    margin:10px;
+}
+.text{
+    width: 100%;
+    background-color:green;
+}
